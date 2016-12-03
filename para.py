@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Edited :  Arbaz Hussain
 # Origin : https://github.com/maK-/parameth
+#usage : python para.py -c=from_file -u https://site.com -p all.txt
 
 import multiprocessing
 import argparse
